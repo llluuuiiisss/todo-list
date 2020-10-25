@@ -1,3 +1,3 @@
 # To Do List
 
-Uma lista 'To Do' com acesso a uma base de dado MongoDB, para tal foi utilizado Mongoose, Node.JS, Express.js, HTML, Css e Bootstrap.
+To Do List with acess to a MongoDB data base, built with Mongoose, Node.JS, Express.js, HTML, Css e Bootstrap.
